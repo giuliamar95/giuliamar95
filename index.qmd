@@ -20,12 +20,7 @@ about:
 ### This content appears above the formatted about page content.
 
 ::: {#hero-heading}
-I am a postdoctoral researcher in the PreMeDICaL Inria-Inserm team, collaborating with Julie Josse. My current research focuses on missing data and synthetic data generation, exploring innovative approaches to address these challenges. Prior to this role, I completed my Ph.D. in Applied Mathematics at Inria and Université Côte d'Azur, under the guidance of Charles Bouveyron and Marco Corneli.
-
-During my doctoral studies, my research primarily revolved around model-based clustering methods for dynamic bipartite networks, with a particular emphasis on applications in pharmacovigilance. I am passionate about leveraging mathematical techniques to unravel complex patterns in data and contribute to impactful solutions in various domains.
-
-Explore my website to learn more about my research interests, publications, and collaborations. Feel free to reach out if you have any questions or would like to discuss potential collaborations. Thank you for visiting!
-
+I am a postdoctoral researcher in the PreMeDICaL Inria-Inserm team with Julie Josse. My current research focuses on missing data and synthetic data generation. I completed my Ph.D. in Applied Mathematics at Inria and Université Côte d'Azur, under the supervision of Charles Bouveyron and Marco Corneli. During my Ph.D, my research primarily focused model-based clustering methods for dynamic bipartite networks, with applications in pharmacovigilance. 
 
 ## Education
 
