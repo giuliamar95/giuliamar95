@@ -1,11 +1,38 @@
 ---
-title: "WebS"
+title: "Giulia Marchello"
+image: fotocv.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/giuliamar95
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/giulia-marchello-62738098/
+    - icon: googlescholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Oj5dqKsAAAAJ&hl=it
 ---
+### This content appears above the formatted about page content.
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+
+Macalester College \| St. Paul MA B.A in Economics \| Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics \| Head Data Scientist \| April 2018 - present
+
+GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+
+:::
+
+### This content appears below the formatted about page content.
