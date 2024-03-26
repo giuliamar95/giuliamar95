@@ -1,6 +1,6 @@
 ---
 title: "Giulia Marchello"
-image: fotocv.jpg
+image: foto_cv1.jpg
 about:
   template: trestles
   image-width: 10em
@@ -16,11 +16,17 @@ about:
       text: Google Scholar
       href: https://scholar.google.com/citations?user=Oj5dqKsAAAAJ&hl=it
 ---
+
 ### This content appears above the formatted about page content.
 
-:::{#hero-heading}
+::: {#hero-heading}
+I am a postdoctoral researcher in the PreMeDICaL Inria-Inserm team, collaborating with Julie Josse. My current research focuses on missing data and synthetic data generation, exploring innovative approaches to address these challenges. Prior to this role, I completed my Ph.D. in Applied Mathematics at Inria and Université Côte d'Azur, under the guidance of Charles Bouveyron and Marco Corneli.
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+During my doctoral studies, my research primarily revolved around model-based clustering methods for dynamic bipartite networks, with a particular emphasis on applications in pharmacovigilance. I am passionate about leveraging mathematical techniques to unravel complex patterns in data and contribute to impactful solutions in various domains.
+
+Explore my website to learn more about my research interests, publications, and collaborations. Feel free to reach out if you have any questions or would like to discuss potential collaborations. Thank you for visiting!
+
+
 ## Education
 
 University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
@@ -32,7 +38,6 @@ Macalester College \| St. Paul MA B.A in Economics \| Sept 2007 - June 2011
 Wengo Analytics \| Head Data Scientist \| April 2018 - present
 
 GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
-
 :::
 
 ### This content appears below the formatted about page content.
