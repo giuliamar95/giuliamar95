@@ -1,0 +1,26 @@
+---
+title: "Teaching"
+---
+
+### 2022 -2023
+
+-   MSc Data Science UCA, *Processing large datasets with R*, 18 hours/year.
+-   Polytech Nice, *Data valorization*, 24 hours/year.
+-   University Diploma in Artificial Intelligence and Health, *Basic Programming, Statistical Learning,* 22 hours/year.
+
+### 2021-2022
+
+-   MSc Data Science UCA, *Processing large datasets with R*, 18 hours/year.
+-   Polytech Nice, *Data valorization*, 24 hours/year.
+-   University Diploma in Artificial Intelligence and Health, *Basic Programming, Statistical Learning*, 22 hours/year.
+
+### 2020-2021
+
+-   MSc Data Science UCA, *Processing large datasets with R*, 18 hours/year.
+-   Polytech Nice, *Data valorization*, 24 hours/year.
+
+### Master's Thesis
+
+-   *Parinaz Jalali,* MSc Data Science UCA, 2021.\
+    Title: *Latent Block Model with SEM Inference Algorithm.*\
+    Supervisors: Giulia Marchello, Dingge Liang, Charles Bouveyron.

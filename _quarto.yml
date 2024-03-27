@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "WebS"
+  title: "Giulia Marchello"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
   open-graph: true
 
 format:

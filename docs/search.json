@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Giulia Marchello",
     "section": "",
-    "text": "I am a postdoctoral researcher in the PreMeDICaL Inria-Inserm team with Julie Josse. My current research focuses on missing data and synthetic data generation. I completed my Ph.D. in Applied Mathematics at Inria and Université Côte d’Azur, under the supervision of Charles Bouveyron and Marco Corneli. During my Ph.D, my research primarily focused model-based clustering methods for dynamic bipartite networks, with applications in pharmacovigilance.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "I am a postdoctoral researcher in the PreMeDICaL Inria-Inserm team with Julie Josse. My current research focuses on missing data and synthetic data generation. Previously, I completed my PhD in Applied Mathematics at Inria and Université Côte d’Azur, under the supervision of Charles Bouveyron and Marco Corneli, funded by the 3IA. During my PhD, my research primarily focused model-based clustering methods for dynamic bipartite networks, with applications in pharmacovigilance.\nMy research interests include:\n\nNetwork analysis: stochastic block models (SBM), latent block model (LBM)\nClustering: model-based clustering, mixture models\nMissing data: imputation methods, synthetic data generation\nApplications in medicine\nHeterogeneous data\nTime series analysis"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Publications",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "G. Marchello, A. Destere, M. Corneli, C. Bouveyron, Deep dynamic co-clustering of count data streams: application to pharmacovigilance (2024), Preprint, link.\nG. Marchello, M. Corneli, C. Bouveyron, A Deep Dynamic Latent Block Model for Coclustering of Zero-Inflated Data Matrices (2023), Journal of Computational and Graphical Statistics, link.\nA. Destere, G. Marchello, D. Merino, N. Ben Othman, A. O. Gérard, T.Lavrut, D. Viard, F. Rocher, M. Corneli, C. Bouveyron, M. D. Drici, An artificial intelligence algorithm for co-clustering to help in Pharmacovigilance with a focus on COVID-19 vaccines, British Journal of Clinical Pharmacology, link.\nL. Gemini, M. Tortora, P. Giordano, M.E. Prudente, A. Villa, O. Vargas, M.F. Giugliano, F. Somma, G. Marchello, C. Chiaramonte, M. Gaetano, F. Frio, E. Di Giorgio, A. D’Avino, F. Tortora, V. D’Agostino, A. Negro, Vasari Scoring System in Discerning between Different Degrees of Glioma and IDH Status Prediction: A Possible Machine Learning Application?, In Journal of Imaging, 9(4), 75, link.\nG. Marchello, A. Fresse, M. Corneli, C. Bouveyron, Co-clustering of evolving count matrices with the dynamic latent block model: application to pharmacovigilance, In Statistics and Computing, 32(3):1–22, link."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Giulia Marchello",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Applied Mathematics, 2020-2024 | Inria & Université Côte d’Azur\nM.Sc. in Statistics for Finance and Economics, 2017-2020 | Università degli Studi di Perugia 110/110 cum laude (highest degree)\nB.Sc. in Business Administration, 2014-2017 | Università degli Studi del Salento 110/110 cum laude (highest degree)"
   },
   {
     "objectID": "index.html#experience",
@@ -26,5 +26,33 @@
     "title": "Giulia Marchello",
     "section": "",
     "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#journal-articles",
+    "href": "about.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "G. Marchello, A. Destere, M. Corneli, C. Bouveyron, Deep dynamic co-clustering of count data streams: application to pharmacovigilance (2024), Preprint, link.\nG. Marchello, M. Corneli, C. Bouveyron, A Deep Dynamic Latent Block Model for Coclustering of Zero-Inflated Data Matrices (2023), Journal of Computational and Graphical Statistics, link.\nA. Destere, G. Marchello, D. Merino, N. Ben Othman, A. O. Gérard, T.Lavrut, D. Viard, F. Rocher, M. Corneli, C. Bouveyron, M. D. Drici, An artificial intelligence algorithm for co-clustering to help in Pharmacovigilance with a focus on COVID-19 vaccines, British Journal of Clinical Pharmacology, link.\nL. Gemini, M. Tortora, P. Giordano, M.E. Prudente, A. Villa, O. Vargas, M.F. Giugliano, F. Somma, G. Marchello, C. Chiaramonte, M. Gaetano, F. Frio, E. Di Giorgio, A. D’Avino, F. Tortora, V. D’Agostino, A. Negro, Vasari Scoring System in Discerning between Different Degrees of Glioma and IDH Status Prediction: A Possible Machine Learning Application?, In Journal of Imaging, 9(4), 75, link.\nG. Marchello, A. Fresse, M. Corneli, C. Bouveyron, Co-clustering of evolving count matrices with the dynamic latent block model: application to pharmacovigilance, In Statistics and Computing, 32(3):1–22, link."
+  },
+  {
+    "objectID": "about.html#conferences",
+    "href": "about.html#conferences",
+    "title": "Publications",
+    "section": "Conferences",
+    "text": "Conferences\n\nG. Marchello, D. Adamo, M. Corneli, C. Bouveyron, SBM for point set registration, In 54émes Journées de Statistique (JdS), May 2024, Bordeaux, France.\nG. Marchello, M. Corneli, C. Bouveyron, Deep dynamic co-clustering of streams of count data: a new online Zip-dLBM, In ESANN, October 2023, Bruges, Belgium. link\nG. Marchello, M. Corneli, C. Bouveyron, A deep dynamic latent block model for the coclustering of zero-inflated data matrices, In ECML PKDD, September 2023, Turin, Italy. link\nG. Marchello, M. Corneli, C. Bouveyron, A deep dynamic co-clustering model for zero-inflated streams of count data, In 54émes Journées de Statistique (JdS), July 2023, Brussels, Belgium.\nG. Marchello, M. Corneli, C. Bouveyron, A deep dynamic latent block model for co-clustering of zero-inflated count data matrices, In 24th International Conference on Computational Statistics (COMPSTAT), August 2022, Bologna, Italy.\nG. Marchello, M. Corneli, C. Bouveyron, Co-clustering of evolving count matrices in pharmacovigilance with the dynamic latent block model, In 53émes Journées de Statistique (JdS), June 2022, Lyon, France.\nG. Marchello, A. Fresse, M. Corneli, C. Bouveyron, Co-clustering of evolving count matrices in pharmacovigilance with the dynamic latent block model, In ICLR – Workshop AI for Public Health, May 2021, Virtual. link\nG. Marchello, M. Corneli, C. Bouveyron, The dynamic latent block model for sparse and evolving count matrices, In ICML - Workskshop on Learning with Missing Values, July 2020, Virtual. link"
+  },
+  {
+    "objectID": "about.html#invited-talks-and-workshops",
+    "href": "about.html#invited-talks-and-workshops",
+    "title": "Publications",
+    "section": "Invited Talks and Workshops",
+    "text": "Invited Talks and Workshops\n\nG. Marchello, Deep dynamic co-clustering of streams of count data: a new online Zip-dLBM, 2024, Working group on Model-Based clustering, Bertinoro, Italy.\nG. Marchello, Unsupervised statistical learning with latent block models on dynamic discrete data,2023, In Thematic day of RT MIA, ENS Lyon, France.\nG. Marchello, A deep dynamic co-clustering model for zero-inflated streams of count data, 2023, In Working group on Model-Based clustering, Pittsburgh, Pennsylvania.\nG. Marchello, A dynamic latent block model for co-clustering of count data streams, 2022, In Working group on Model-Based clustering, Athens, Greece."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "2022 -2023\n\nMSc Data Science UCA, Processing large datasets with R, 18 hours/year.\nPolytech Nice, Data valorization, 24 hours/year.\nUniversity Diploma in Artificial Intelligence and Health, Basic Programming, Statistical Learning, 22 hours/year.\n\n\n\n2021-2022\n\nMSc Data Science UCA, Processing large datasets with R, 18 hours/year.\nPolytech Nice, Data valorization, 24 hours/year.\nUniversity Diploma in Artificial Intelligence and Health, Basic Programming, Statistical Learning, 22 hours/year.\n\n\n\n2020-2021\n\nMSc Data Science UCA, Processing large datasets with R, 18 hours/year.\nPolytech Nice, Data valorization, 24 hours/year.\n\n\n\nMaster’s Thesis\n\nParinaz Jalali, MSc Data Science UCA, 2021.\nTitle: Latent Block Model with SEM Inference Algorithm.\nSupervisors: Giulia Marchello, Dingge Liang, Charles Bouveyron."
   }
 ]

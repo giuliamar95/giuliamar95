@@ -1,9 +1,39 @@
 ---
-title: "About"
+title: "Publications"
 ---
 
-About this site
+## Journal Articles
 
-```{r}
-1 + 1
-```
+-   G. Marchello, A. Destere, M. Corneli, C. Bouveyron, *Deep dynamic co-clustering of count data streams: application to pharmacovigilance (2024)*, Preprint, [link](https://hal.science/hal-04395096/).
+-   G. Marchello, M. Corneli, C. Bouveyron, *A Deep Dynamic Latent Block Model for Coclustering of Zero-Inflated Data Matrices (2023)*, Journal of Computational and Graphical Statistics, [link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2024.2319162).
+-   A. Destere, G. Marchello, D. Merino, N. Ben Othman, A. O. Gérard, T.Lavrut, D. Viard, F. Rocher, M. Corneli, C. Bouveyron, M. D. Drici, *An artificial intelligence algorithm for co-clustering to help in Pharmacovigilance with a focus on COVID-19 vaccines*, British Journal of Clinical Pharmacology, [link](https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bcp.16012).
+-   L. Gemini, M. Tortora, P. Giordano, M.E. Prudente, A. Villa, O. Vargas, M.F. Giugliano, F. Somma, G. Marchello, C. Chiaramonte, M. Gaetano, F. Frio, E. Di Giorgio, A. D’Avino, F. Tortora, V. D’Agostino, A. Negro, *Vasari Scoring System in Discerning between Different Degrees of Glioma and IDH Status Prediction: A Possible Machine Learning Application?*, In Journal of Imaging, 9(4), 75, [link](https://www.mdpi.com/2313-433X/9/4/75).
+-   G. Marchello, A. Fresse, M. Corneli, C. Bouveyron, *Co-clustering of evolving count matrices with the dynamic latent block model: application to pharmacovigilance*, In Statistics and Computing, 32(3):1–22, [link](https://hal.science/hal-03146769/document).
+
+## Invited Talks and Workshops
+
+-   G. Marchello, Deep dynamic co-clustering of streams of count data: a new online Zip-dLBM, 2024, Working group on Model-Based clustering, Bertinoro, Italy.
+
+-   G. Marchello, Unsupervised statistical learning with latent block models on dynamic discrete data,2023, In Thematic day of RT MIA, ENS Lyon, France.
+
+-   G. Marchello, A deep dynamic co-clustering model for zero-inflated streams of count data, 2023, In Working group on Model-Based clustering, Pittsburgh, Pennsylvania.
+
+-   G. Marchello, A dynamic latent block model for co-clustering of count data streams, 2022, In Working group on Model-Based clustering, Athens, Greece.
+
+## Conferences
+
+-   G. Marchello, D. Adamo, M. Corneli, C. Bouveyron, *SBM for point set registration*, In 54émes Journées de Statistique (JdS), May 2024, Bordeaux, France.
+
+-   G. Marchello, M. Corneli, C. Bouveyron, *Deep dynamic co-clustering of streams of count data: a new online Zip-dLBM*, In ESANN, October 2023, Bruges, Belgium. [link](https://www.esann.org/sites/default/files/proceedings/2023/ES2023-86.pdf)
+
+-   G. Marchello, M. Corneli, C. Bouveyron, *A deep dynamic latent block model for the coclustering of zero-inflated data matrices*, In ECML PKDD, September 2023, Turin, Italy. [link](https://hal.science/hal-04150292/file/sub_717.pdf)
+
+-   G. Marchello, M. Corneli, C. Bouveyron, *A deep dynamic co-clustering model for zero-inflated streams of count data*, In 54émes Journées de Statistique (JdS), July 2023, Brussels, Belgium.
+
+-   G. Marchello, M. Corneli, C. Bouveyron, *A deep dynamic latent block model for co-clustering of zero-inflated count data matrices*, In 24th International Conference on Computational Statistics (COMPSTAT), August 2022, Bologna, Italy.
+
+-   G. Marchello, M. Corneli, C. Bouveyron, *Co-clustering of evolving count matrices in pharmacovigilance with the dynamic latent block model,* In 53émes Journées de Statistique (JdS), June 2022, Lyon, France.
+
+-   G. Marchello, A. Fresse, M. Corneli, C. Bouveyron, *Co-clustering of evolving count matrices in pharmacovigilance with the dynamic latent block model*, In ICLR – Workshop AI for Public Health, May 2021, Virtual. [link](https://hal.science/hal-03184390/file/dLBM_ICLR.pdf)
+
+-   G. Marchello, M. Corneli, C. Bouveyron, *The dynamic latent block model for sparse and evolving count matrices*, In ICML - Workskshop on Learning with Missing Values, July 2020, Virtual. [link](https://openreview.net/pdf?id=R-hlehDAkOu)

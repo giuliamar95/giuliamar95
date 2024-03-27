@@ -3,7 +3,7 @@ title: "Giulia Marchello"
 image: foto_cv1.jpg
 about:
   template: trestles
-  image-width: 10em
+  image-width: 15em
   image-shape: round
   links:
     - icon: github
@@ -17,22 +17,28 @@ about:
       href: https://scholar.google.com/citations?user=Oj5dqKsAAAAJ&hl=it
 ---
 
-### This content appears above the formatted about page content.
+### About me
 
-::: {#hero-heading}
-I am a postdoctoral researcher in the PreMeDICaL Inria-Inserm team with Julie Josse. My current research focuses on missing data and synthetic data generation. I completed my Ph.D. in Applied Mathematics at Inria and Université Côte d'Azur, under the supervision of Charles Bouveyron and Marco Corneli. During my Ph.D, my research primarily focused model-based clustering methods for dynamic bipartite networks, with applications in pharmacovigilance. 
+
+I am a postdoctoral researcher in the [PreMeDICaL Inria-Inserm](https://team.inria.fr/premedical/) team with [Julie Josse](http://juliejosse.com). My current research focuses on missing data and synthetic data generation. Previously, I completed my PhD in Applied Mathematics at [Inria](https://inria.fr/fr) and [Université Côte d'Azur](https://univ-cotedazur.fr), under the supervision of [Charles Bouveyron](https://math.univ-cotedazur.fr/~cbouveyr/) and [Marco Corneli](https://math.univ-cotedazur.fr/~mcorneli/), funded by the [3IA](https://3ia.univ-cotedazur.eu). During my PhD, my research primarily focused model-based clustering methods for dynamic bipartite networks, with applications in pharmacovigilance. 
+
+My research interests include:
+
+ - Network analysis: stochastic block models (SBM), latent block model (LBM)
+ - Clustering: model-based clustering, mixture models
+ - Missing data: imputation methods, synthetic data generation
+ - Applications in medicine
+ - Heterogeneous data
+ - Time series analysis
+ 
 
 ## Education
 
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+- Ph.D. in Applied Mathematics, 2020-2024 \| [Inria](https://inria.fr/fr) & [Université Côte d'Azur](https://univ-cotedazur.fr)
 
-Macalester College \| St. Paul MA B.A in Economics \| Sept 2007 - June 2011
+- M.Sc. in Statistics for Finance and Economics, 2017-2020 \| [Università degli Studi di Perugia](https://www.unipg.it)
+110/110 cum laude (highest degree)
 
-## Experience
+- B.Sc. in Business Administration, 2014-2017 \| [Università degli Studi del Salento](https://www.unisalento.it) 110/110 cum laude (highest degree)
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
 
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
-:::
-
-### This content appears below the formatted about page content.
