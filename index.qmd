@@ -1,6 +1,7 @@
 ---
 title: "Giulia Marchello"
 image: foto_cv1.jpg
+resources: google10bf511559e339ea.html
 about:
   template: trestles
   image-width: 15em
